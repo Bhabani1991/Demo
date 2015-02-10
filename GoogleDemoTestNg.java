@@ -78,6 +78,16 @@ public class GoogleDemoTestNg {
 		 
 		 
 		 
+		 @Test
+		 
+		 
+		 public void closeBrowser(){
+			 
+			 syster.out.println("Hello New File");
+		 }
+		 
+		 
+		 
 		 
 		 
 	
